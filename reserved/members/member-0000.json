@@ -1,0 +1,8 @@
+{
+  "public_key": "04b31b74ad078b082cad69775717016d7fbfae7b9f7dde8d1d988e0ff2e2b30e9413090e436c7c2a2c06e7ddf69484aeaaadc7ecbf1dd92459769ba96043a07564",
+  "name": "member-0000",
+  "governance_voting_power": 1,
+  "consensus_voting_power": 1,
+  "governance_delegatee": null,
+  "consensus_delegatee": null
+}
